@@ -11,12 +11,12 @@ This Android application demonstrates the implementation of login, sign up, and 
 2. Login
   * Enter your registered email and password.
   * Tap on the "Log In" button to authenticate.
-![image](https://github.com/SaraSAli/Login_Singup_Android/assets/17590461/03ce391a-be28-4fb4-b936-0f360334b2ad)
+  * ![image](https://github.com/SaraSAli/Login_Singup_Android/assets/17590461/03ce391a-be28-4fb4-b936-0f360334b2ad)
 3. Sign up
   * Tap on the "Sign Up" button.
   * Enter your email address and password.
   * Tap on the "Sign Up" button to create a new account.
-![image](https://github.com/SaraSAli/Login_Singup_Android/assets/17590461/f356cdb3-b573-4447-b754-dc6bf8536092)
+  * ![image](https://github.com/SaraSAli/Login_Singup_Android/assets/17590461/f356cdb3-b573-4447-b754-dc6bf8536092)
 4. Sign out
   * Once logged in, tap on the "Sign Out" button to log out from the app.
-![image](https://github.com/SaraSAli/Login_Singup_Android/assets/17590461/266313d8-5f8a-4456-b58a-4cce874f3e03)
+  * ![image](https://github.com/SaraSAli/Login_Singup_Android/assets/17590461/266313d8-5f8a-4456-b58a-4cce874f3e03)
